@@ -10,7 +10,7 @@ The Movies Recommendation System is an intelligent application that provides per
 - Real-Time Updates: Continuously refines recommendations as users interact with the system.
   
 ## Technologies Used
-**Backend:** Python, Flask.
+**Backend:** Python, Flask.<br>
 **Machine Learning:** Pandas, NumPy, Scikit-learn, Surprise.
 **Database:** SQLite or MongoDB.
 **Frontend:** HTML, CSS, JavaScript.
