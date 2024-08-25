@@ -18,7 +18,7 @@ The Movies Recommendation System is an intelligent application that provides per
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/your-username/movies-recommendation-system.git
+git clone https://github.com/Akshay-Dharmik7/movies-recommendation-system.git
 
 2. Navigate to the project directory:
 cd movies-recommendation-system
